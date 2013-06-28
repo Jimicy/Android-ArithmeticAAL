@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jimmy Wang Arithmetic AAL</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	
+	<string name="grade_level">Grade Level</string>
+	
+	<string name="select_grade_level">Select Grade Level</string>
+	
+	<string-array name="gradeLevels">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+	</string-array>
+	
+	<string name="time_interval">Time Interval</string>
+	
+	<string name="select_time_interval">Select Time Interval</string>
+	
+	<string-array name="timeIntervals">
+    <item>30</item>
+    <item>60</item>
+    <item>120</item>
+    <item>150</item>
+    <item>180</item>
+    <item>210</item>
+	</string-array>
+    
+	<string name="reset_quiz">Reset Quiz</string>
+</resources>

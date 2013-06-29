@@ -4,8 +4,11 @@ Android-ArithmeticAAL
 An Artithmetic game in android.
 
 1 player mode: Implemented
+
 2 player mode: To be Implemented
+
 Settings: To be Implemented
+
 About: To be Implemented
 
 

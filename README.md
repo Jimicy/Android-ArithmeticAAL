@@ -12,7 +12,7 @@ Settings: To be Implemented
 About: To be Implemented
 
 
-[APK File](https://dl.dropboxusercontent.com/u/11788669/ArithmeticAAL.apk)
+[APK File](https://www.dropbox.com/s/zdz8zale9dx7lg8/ArithmeticAAL.apk)
 
 Known Issue
 ------------

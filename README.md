@@ -14,6 +14,9 @@ About: To be Implemented
 
 [APK File](https://www.dropbox.com/s/zdz8zale9dx7lg8/ArithmeticAAL.apk)
 
+[Imgur](http://i.imgur.com/BMLVZ9C)
+[Imgur](http://i.imgur.com/25jbgIX)
+
 Known Issue
 ------------
 Timer keep running when even when app is in the background
